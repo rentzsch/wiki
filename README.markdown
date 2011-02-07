@@ -1,1 +1,1 @@
-<h1><a href="https://github.com/rentzsch/wiki/wiki/_pages">*** Wiki Page Index ***</a></h1>
+<h1><a href="https://github.com/rentzsch/wiki/wiki">*** Wiki Page Index ***</a></h1>
